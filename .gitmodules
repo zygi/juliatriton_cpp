@@ -1,0 +1,6 @@
+[submodule "triton"]
+	path = triton
+	url = https://github.com/openai/triton.git
+[submodule "llvm-project"]
+	path = llvm-project
+	url = https://github.com/llvm/llvm-project
